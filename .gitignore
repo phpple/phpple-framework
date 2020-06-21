@@ -1,0 +1,9 @@
+vendor/
+*.lock
+*.log
+.idea/
+ide/
+.zephir/
+
+ext/.*
+ext/kernel

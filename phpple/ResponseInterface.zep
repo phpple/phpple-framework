@@ -1,0 +1,5 @@
+namespace Phpple;
+
+interface ResponseInterface
+{
+}

@@ -1,0 +1,6 @@
+namespace Phpple;
+
+interface RequestInterface
+{
+
+}
